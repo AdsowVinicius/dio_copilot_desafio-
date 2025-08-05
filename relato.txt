@@ -1,0 +1,1 @@
+Nesse desafio aprendi a fazer copilotos de 3 formas diferentes, sendo elas apartir de um agente, usando um prompt pelo copilot e um agente em branco, e muito eficiente e esses copilos podem ajudar em consultas e facilitando o dia a dia.
